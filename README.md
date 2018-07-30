@@ -1,4 +1,3 @@
-# HTML5-CSS3
-This is a sample Calendar project with HTML5 and CSS3. 
+# HTML5-CSS3 & Pokemon for react
+This is a sample Calendar project with HTML5 and CSS3.Pokemon project for react.js 
 
-#React_for_Pokemon
